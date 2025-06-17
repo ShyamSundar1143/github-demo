@@ -1,4 +1,4 @@
 # github-demo
 This is my first repository.
 <br>
-Author - Shyam Sundar.
+Author - G Shyam Sundar.
